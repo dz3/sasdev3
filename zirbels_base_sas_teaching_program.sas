@@ -8,8 +8,6 @@
 
 * Curr Descr: Shows you how to do about 80% of common SAS data management tasks ; 
 
-* SVN $Header$  ; 
-
 **********************************************************************; 
 
 options nodate nocenter nonumber linesize=150 pagesize=72; 
